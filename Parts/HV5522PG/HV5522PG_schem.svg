@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="1.60972in"
+   height="2.11in"
+   viewBox="0 0 115.9 151.92"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="HV5522PG_schem.svg">
+  <metadata
+     id="metadata262">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs260" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="727"
+     inkscape:window-height="731"
+     id="namedview258"
+     showgrid="false"
+     inkscape:zoom="3.5150544"
+     inkscape:cx="89.472299"
+     inkscape:cy="129.37336"
+     inkscape:window-x="624"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     partID="82820"
+     id="g4">
+    <g
+       id="schematic">
+      <rect
+         stroke="none"
+         height="151.2"
+         x="14.75"
+         width="86.4"
+         y="0.36"
+         class="interior rect"
+         fill="#ffffff"
+         stroke-width="0"
+         id="rect7" />
+      <text
+         x="57.9501"
+         y="73.6931"
+         class="text"
+         font-size="4.25001"
+         id="label"
+         style="font-size:4.25001001px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0">HV5522PG</text>
+      <line
+         stroke="#000000"
+         y1="151.56"
+         y2="151.56"
+         x1="14.75"
+         x2="101.15"
+         class="other"
+         stroke-linecap="round"
+         stroke-width="0.9"
+         id="line10" />
+      <line
+         stroke="#000000"
+         y1="151.56"
+         y2="0.36"
+         x1="101.15"
+         x2="101.15"
+         class="other"
+         stroke-linecap="round"
+         stroke-width="0.9"
+         id="line12" />
+      <line
+         stroke="#000000"
+         y1="0.36"
+         y2="0.36"
+         x1="101.15"
+         x2="14.75"
+         class="other"
+         stroke-linecap="round"
+         stroke-width="0.9"
+         id="line14" />
+      <line
+         stroke="#000000"
+         y1="0.36"
+         y2="151.56"
+         x1="14.75"
+         x2="14.75"
+         class="other"
+         stroke-linecap="round"
+         stroke-width="0.9"
+         id="line16" />
+      <line
+         stroke="#787878"
+         y1="7.56"
+         y2="7.56"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="MCLR"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector0pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="7.56"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector0terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="6.50999"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text20">1</text>
+      <text
+         x="16.85"
+         y="8.2599897"
+         class="text"
+         font-size="3.49999"
+         id="text22"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV1</text>
+      <line
+         stroke="#787878"
+         y1="14.76"
+         y2="14.76"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RB0/AREF+"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector1pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="14.76"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector1terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="13.71"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text26">2</text>
+      <text
+         x="16.85"
+         y="15.46"
+         class="text"
+         font-size="3.49999"
+         id="text28"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV2</text>
+      <line
+         stroke="#787878"
+         y1="21.96"
+         y2="21.96"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RB1/AREF-"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector2pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="21.96"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector2terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="20.91"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text32">3</text>
+      <text
+         x="16.85"
+         y="22.66"
+         class="text"
+         font-size="3.49999"
+         id="text34"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV3</text>
+      <line
+         stroke="#787878"
+         y1="29.16"
+         y2="29.16"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RB2"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector3pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="29.16"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector3terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="28.11"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text38">4</text>
+      <text
+         x="16.85"
+         y="29.8599"
+         class="text"
+         font-size="3.49999"
+         id="text40"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV4</text>
+      <line
+         stroke="#787878"
+         y1="36.36"
+         y2="36.36"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RB3"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector4pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="36.36"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector4terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="35.31"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text44">5</text>
+      <text
+         x="16.85"
+         y="37.059898"
+         class="text"
+         font-size="3.49999"
+         id="text46"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV5</text>
+      <line
+         stroke="#787878"
+         y1="43.56"
+         y2="43.56"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RB4/IC7"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector5pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="43.56"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector5terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="42.51"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text50">6</text>
+      <text
+         x="16.85"
+         y="44.259899"
+         class="text"
+         font-size="3.49999"
+         id="text52"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV6</text>
+      <line
+         stroke="#787878"
+         y1="50.76"
+         y2="50.76"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RB5/IC8"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector6pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="50.76"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector6terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="49.71"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text56">7</text>
+      <text
+         x="16.85"
+         y="51.4599"
+         class="text"
+         font-size="3.49999"
+         id="text58"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV7</text>
+      <line
+         stroke="#787878"
+         y1="57.96"
+         y2="57.96"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RB6"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector7pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="57.96"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector7terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="56.91"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text62">8</text>
+      <text
+         x="16.85"
+         y="58.659901"
+         class="text"
+         font-size="3.49999"
+         id="text64"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV8</text>
+      <line
+         stroke="#787878"
+         y1="65.16"
+         y2="65.16"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RB7"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector8pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="65.16"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector8terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="64.11"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text68">9</text>
+      <text
+         x="16.85"
+         y="65.859901"
+         class="text"
+         font-size="3.49999"
+         id="text70"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV9</text>
+      <line
+         stroke="#787878"
+         y1="72.36"
+         y2="72.36"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RB8"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector9pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="72.36"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector9terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="71.31"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text74">10</text>
+      <text
+         x="16.85"
+         y="73.059898"
+         class="text"
+         font-size="3.49999"
+         id="text76"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV10</text>
+      <line
+         stroke="#787878"
+         y1="79.56"
+         y2="79.56"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="VDD0"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector10pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="79.56"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector10terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="78.51"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text80">11</text>
+      <text
+         x="16.85"
+         y="80.259903"
+         class="text"
+         font-size="3.49999"
+         id="text82"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV11</text>
+      <line
+         stroke="#787878"
+         y1="86.76"
+         y2="86.76"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="VSS0"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector11pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="86.76"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector11terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="85.71"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text86">12</text>
+      <text
+         x="16.85"
+         y="87.4599"
+         class="text"
+         font-size="3.49999"
+         id="text88"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV12</text>
+      <line
+         stroke="#787878"
+         y1="93.96"
+         y2="93.96"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="OSC1"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector12pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="93.96"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector12terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="92.91"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text92">13</text>
+      <text
+         x="16.85"
+         y="94.659897"
+         class="text"
+         font-size="3.49999"
+         id="text94"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV13</text>
+      <line
+         stroke="#787878"
+         y1="101.16"
+         y2="101.16"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="OSC2"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector13pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="101.16"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector13terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="100.11"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text98">14</text>
+      <text
+         x="16.85"
+         y="101.86"
+         class="text"
+         font-size="3.49999"
+         id="text100"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV14</text>
+      <line
+         stroke="#787878"
+         y1="108.36"
+         y2="108.36"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RC13/TX1"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector14pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="108.36"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector14terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="107.31"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text104">15</text>
+      <text
+         x="16.85"
+         y="109.06"
+         class="text"
+         font-size="3.49999"
+         id="text106"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV15</text>
+      <line
+         stroke="#787878"
+         y1="115.56"
+         y2="115.56"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RC14/RX1"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector15pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="115.56"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector15terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="114.51"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text110">16</text>
+      <text
+         x="16.85"
+         y="116.26"
+         class="text"
+         font-size="3.49999"
+         id="text112"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV16</text>
+      <line
+         stroke="#787878"
+         y1="122.76"
+         y2="122.76"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="INT0/RE8"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector16pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="122.76"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector16terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="121.71"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text116">17</text>
+      <text
+         x="16.85"
+         y="123.46"
+         class="text"
+         font-size="3.49999"
+         id="text118"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV17</text>
+      <line
+         stroke="#787878"
+         y1="129.96"
+         y2="129.96"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="OC2/RD1"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector17pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="129.96"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector17terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="128.91"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text122">18</text>
+      <text
+         x="16.85"
+         y="130.66"
+         class="text"
+         font-size="3.49999"
+         id="text124"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV18</text>
+      <line
+         stroke="#787878"
+         y1="137.16"
+         y2="137.16"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="RD3"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector18pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="137.16"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector18terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="136.11"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text128">19</text>
+      <text
+         x="16.85"
+         y="137.86"
+         class="text"
+         font-size="3.49999"
+         id="text130"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV19</text>
+      <line
+         stroke="#787878"
+         y1="144.36"
+         y2="144.36"
+         x1="0.349999"
+         x2="14.75"
+         class="pin"
+         connectorname="VSS1"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector19pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="0.349999"
+         width="0.000283464"
+         y="144.36"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector19terminal" />
+      <text
+         stroke="none"
+         x="7.54999"
+         y="143.31"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text134">20</text>
+      <text
+         x="16.85"
+         y="145.06"
+         class="text"
+         font-size="3.49999"
+         id="text136"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:start;fill:#787878;stroke:none;stroke-width:0">HV20</text>
+      <line
+         stroke="#787878"
+         y1="144.36"
+         y2="144.36"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="VDD1"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector20pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="144.36"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector20terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="143.31"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text140">21</text>
+      <text
+         x="99.049896"
+         y="145.06"
+         class="text"
+         font-size="3.49999"
+         id="text142"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV21</text>
+      <line
+         stroke="#787878"
+         y1="137.16"
+         y2="137.16"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RD2"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector21pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="137.16"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector21terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="136.11"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text146">22</text>
+      <text
+         x="99.049896"
+         y="137.86"
+         class="text"
+         font-size="3.49999"
+         id="text148"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV22</text>
+      <line
+         stroke="#787878"
+         y1="129.96"
+         y2="129.96"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="OC1/RD0"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector22pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="129.96"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector22terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="128.91"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text152">23</text>
+      <text
+         x="99.049896"
+         y="130.66"
+         class="text"
+         font-size="3.49999"
+         id="text154"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV23</text>
+      <line
+         stroke="#787878"
+         y1="122.76"
+         y2="122.76"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RF6/SCK1"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector23pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="122.76"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector23terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="121.71"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text158">24</text>
+      <text
+         x="99.049896"
+         y="123.46"
+         class="text"
+         font-size="3.49999"
+         id="text160"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV24</text>
+      <line
+         stroke="#787878"
+         y1="115.56"
+         y2="115.56"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="PGD/SCL"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector24pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="115.56"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector24terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="114.51"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text164">25</text>
+      <text
+         x="99.049896"
+         y="116.26"
+         class="text"
+         font-size="3.49999"
+         id="text166"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV25</text>
+      <line
+         stroke="#787878"
+         y1="108.36"
+         y2="108.36"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="PGC/SDA"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector25pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="108.36"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector25terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="107.31"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text170">26</text>
+      <text
+         x="99.049896"
+         y="109.06"
+         class="text"
+         font-size="3.49999"
+         id="text172"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV26</text>
+      <line
+         stroke="#787878"
+         y1="101.16"
+         y2="101.16"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RF5/TX2"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector26pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="101.16"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector26terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="100.11"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text176">27</text>
+      <text
+         x="99.049896"
+         y="101.86"
+         class="text"
+         font-size="3.49999"
+         id="text178"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV27</text>
+      <line
+         stroke="#787878"
+         y1="93.96"
+         y2="93.96"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RF4/RX2"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector27pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="93.96"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector27terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="92.91"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text182">28</text>
+      <text
+         x="99.049896"
+         y="94.659897"
+         class="text"
+         font-size="3.49999"
+         id="text184"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV28</text>
+      <line
+         stroke="#787878"
+         y1="86.76"
+         y2="86.76"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RF1"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector28pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="86.76"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector28terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="85.71"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text188">29</text>
+      <text
+         x="99.049896"
+         y="87.4599"
+         class="text"
+         font-size="3.49999"
+         id="text190"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV29</text>
+      <line
+         stroke="#787878"
+         y1="79.56"
+         y2="79.56"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RF0"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector29pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="79.56"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector29terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="78.51"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text194">30</text>
+      <text
+         x="99.049896"
+         y="80.259903"
+         class="text"
+         font-size="3.49999"
+         id="text196"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV30</text>
+      <line
+         stroke="#787878"
+         y1="72.36"
+         y2="72.36"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="VSS2"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector30pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="72.36"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector30terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="71.31"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text200">31</text>
+      <text
+         x="99.049896"
+         y="73.059898"
+         class="text"
+         font-size="3.49999"
+         id="text202"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV31</text>
+      <line
+         stroke="#787878"
+         y1="65.16"
+         y2="65.16"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="VDD2"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector31pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="65.16"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector31terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="64.11"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text206">32</text>
+      <text
+         x="99.049896"
+         y="65.859901"
+         class="text"
+         font-size="3.49999"
+         id="text208"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">HV32</text>
+      <line
+         stroke="#787878"
+         y1="57.96"
+         y2="57.96"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RE5"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector32pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="57.96"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector32terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="56.91"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text212">33</text>
+      <text
+         x="99.049896"
+         y="58.659901"
+         class="text"
+         font-size="3.49999"
+         id="text214"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">DATAOUT</text>
+      <line
+         stroke="#787878"
+         y1="50.76"
+         y2="50.76"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RE4"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector33pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="50.76"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector33terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="49.71"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text218">34</text>
+      <text
+         x="99.049896"
+         y="51.4599"
+         class="text"
+         font-size="3.49999"
+         id="text220"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">POL</text>
+      <line
+         stroke="#787878"
+         y1="43.56"
+         y2="43.56"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RE3"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector34pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="43.56"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector34terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="42.51"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text224">35</text>
+      <text
+         x="99.049896"
+         y="44.259899"
+         class="text"
+         font-size="3.49999"
+         id="text226"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">CLK</text>
+      <line
+         stroke="#787878"
+         y1="36.36"
+         y2="36.36"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RE2"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector35pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="36.36"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector35terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="35.31"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text230">36</text>
+      <text
+         x="99.049896"
+         y="37.059898"
+         class="text"
+         font-size="3.49999"
+         id="text232"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">VSS</text>
+      <line
+         stroke="#787878"
+         y1="29.16"
+         y2="29.16"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RE1"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector36pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="29.16"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector36terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="28.11"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text236">37</text>
+      <text
+         x="99.049896"
+         y="29.8599"
+         class="text"
+         font-size="3.49999"
+         id="text238"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">VDD</text>
+      <line
+         stroke="#787878"
+         y1="21.96"
+         y2="21.96"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="RE0"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector37pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="21.96"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector37terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="20.91"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text242">38</text>
+      <text
+         x="99.049896"
+         y="22.66"
+         class="text"
+         font-size="3.49999"
+         id="text244"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">LE</text>
+      <line
+         stroke="#787878"
+         y1="14.76"
+         y2="14.76"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="AVSS"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector38pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="14.76"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector38terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="13.71"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text248">39</text>
+      <text
+         x="99.049896"
+         y="15.46"
+         class="text"
+         font-size="3.49999"
+         id="text250"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">DATAIN</text>
+      <line
+         stroke="#787878"
+         y1="7.56"
+         y2="7.56"
+         x1="115.55"
+         x2="101.15"
+         class="pin"
+         connectorname="AVDD"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         id="connector39pin" />
+      <rect
+         stroke="none"
+         height="0.000283465"
+         x="115.55"
+         width="0.000283464"
+         y="7.56"
+         class="terminal"
+         fill="none"
+         stroke-width="0"
+         id="connector39terminal" />
+      <text
+         stroke="none"
+         x="108.35"
+         y="6.50999"
+         font-family="'Droid Sans'"
+         class="text"
+         fill="#8c8c8c"
+         font-size="2.5"
+         stroke-width="0"
+         text-anchor="middle"
+         id="text254">40</text>
+      <text
+         x="99.049896"
+         y="8.2599897"
+         class="text"
+         font-size="3.49999"
+         id="text256"
+         style="font-size:3.49998999px;font-family:'Droid Sans';text-anchor:end;fill:#787878;stroke:none;stroke-width:0">BL</text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:32.00004578px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="21.393724"
+     y="84.097443"
+     id="text3590"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3592"
+       x="21.393724"
+       y="84.097443" /></text>
+</svg>

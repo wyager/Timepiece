@@ -1,0 +1,9 @@
+Cylinder ID: 63mm
+
+cylnder OD: 74.2mm
+
+length: 140mm
+
+rim: 5.6mm on each side
+
+In circuit: about 12.5mm between outermost nixie pads

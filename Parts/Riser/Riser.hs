@@ -20,16 +20,16 @@ main = do
 
 svgDoc :: S.Svg
 svgDoc = S.docTypeSvg ! A.version "1.2"
-       ! A.width "34mm" ! A.height "24mm"
-       ! A.viewbox "0 0 175 125" $ do
-    S.g $ S.g ! A.id_ "copper1" $ S.g ! A.id_ "copper0" $ riserPads 1.5 12
-    S.g $ S.g ! A.id_ "silkscreen" $ riserSilk 1.5 12
+       ! A.width "34mm" ! A.height "26mm"
+       ! A.viewbox "0 0 175 130" $ do
+    S.g $ S.g ! A.id_ "copper1" $ S.g ! A.id_ "copper0" $ riserPads 1.5 13
+    S.g $ S.g ! A.id_ "silkscreen" $ riserSilk 1.5 13
 
 riserPads :: X -> Y -> S.Svg
 riserPads xo yo = forM_ [0..12] $ \h -> forM_ [-1,1] $ \v -> do
     let connectorName = fromString $ "connector" ++ show (h + v*12) ++ "pin"
     let x = X (2.54 * h) + xo
-    let y = Y (10 * v) + yo
+    let y = Y (11 * v) + yo
     pad x y 0.5 1.0 ! A.id_ connectorName
 
 riserSilk :: X -> Y -> S.Svg
@@ -39,7 +39,7 @@ riserSilk xo yo = forM_ [0..12] $ \h -> forM_ [-1,1] $ \v -> do
                 1 -> "9876543876543" -- Bottom
         let label = singleton (labels !! h)
         let x = X (2.54 * fromIntegral h) + xo
-        let y = Y (8 * fromIntegral v) + yo + 0.8
+        let y = Y (9 * fromIntegral v) + yo + 0.8
         text label ! A.x (toValue x) ! A.y (toValue y)
 
 text :: Text -> Svg

@@ -7,3 +7,20 @@ length: 140mm
 rim: 5.6mm on each side
 
 In circuit: about 12.5mm between outermost nixie pads
+
+CIRCUITS:
+
+Nixies are 0.9mm from sides
+Nixies are 1.9mm apart
+
+(42 - 1.8 - 1.9 - 19*2)
+
+3.1 from top 3.3 from bottom
+about .8 from each connector
+
+pcb is 42x25.7
+
+BIG CIRCUIT:
+
+43.2mm between the center of riser adapters
+

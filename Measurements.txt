@@ -24,3 +24,7 @@ BIG CIRCUIT:
 
 43.2mm between the center of riser adapters
 
+
+NIXIE POWER SUPPLY:
+
+21 tall (pins at base), 16.5 wide
